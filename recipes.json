@@ -1,0 +1,1172 @@
+[
+	{
+        "m_Name": "Cut out seeds",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 3,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": -1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["SlicedPumpkin"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["HuntingKnife", "KitchenKnife", "SteakKnife"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "PumpkinSeeds",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 3,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Cut out seeds",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 3,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": -1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Tomato"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["HuntingKnife", "KitchenKnife", "SteakKnife"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "TomatoSeeds",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 2,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Cut out seeds",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 3,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": -1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Zucchini"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["HuntingKnife", "KitchenKnife", "SteakKnife"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "ZucchiniSeeds",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 2,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Cut out seeds",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 3,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": -1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["GreenBellPepper"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["HuntingKnife", "KitchenKnife", "SteakKnife"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "PepperSeeds",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 2,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Destroy",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["ChernarusMap"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["CombatKnife", "HuntingKnife", "KitchenKnife", "Machete", "SteakKnife", "StoneKnife"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "Paper",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft BarbedWireFenceKit",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Rope"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BarbedWire"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "BBW_BarbedWireKit",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Combine Guts",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["SmallGuts"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["SmallGuts"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "Guts",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Cut Lantern",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Pumpkin"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["HuntingKnife", "KitchenKnife", "SteakKnife"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "PumpkinHelmet",
+                "m_ResultSetFullQuantity": -1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft Stew",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["RabbitLegMeat"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["GreenBellPepper", "Potato", "Tomato", "Zucchini", "SlicedPumpkin"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "MassGoatStew",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 150,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft LeatherSack",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 8,
+                "m_MaxQuantityIngredient": 8,
+                "items": ["TannedLeather"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BoneHook"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "LeatherSack_Natural",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft LeatherVest",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 6,
+                "m_MaxQuantityIngredient": 6,
+                "items": ["TannedLeather"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BoneHook"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "LeatherStorageVest_Natural",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft LeatherBoots",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 3,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": -1,
+                "m_MinQuantityIngredient": 4,
+                "m_MaxQuantityIngredient": 4,
+                "items": ["TannedLeather"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BoneHook"],
+                "m_IngredientAddHealth": -1,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -1,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "LeatherShoes_Natural",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft LeatherGloves",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 2,
+                "m_MaxQuantityIngredient": 2,
+                "items": ["TannedLeather"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BoneHook"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "LeatherGloves_Natural",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft Waterpouch",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 1,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": 1,
+                "items": ["TannedLeather"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BoneHook"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "Waterpouch_Natural",
+                "m_ResultSetFullQuantity": -1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "bend Hook",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": 1,
+                "items": ["Nail"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient":-1,
+                "m_MaxDamageIngredient":3,
+                "m_MinQuantityIngredient":-1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Pliers"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "Hook",
+                "m_ResultSetFullQuantity": -1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft Whetstone",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["StoneKnife"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["StoneKnife"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "Whetstone",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft GardenLime",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["PlantMaterial"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Guts"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "GardenLime",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft FurCourierBag",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["Rope"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["WolfPelt", "CowPelt", "PigPelt", "BearPelt", "DeerPelt", "WildboarPelt", "BearPelt", "SheepPelt"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "FurCourierBag",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft Eyepatch",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 1,
+                "m_MaxQuantityIngredient": 1,
+                "items": ["Rag"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 1,
+                "m_MaxQuantityIngredient": 1,
+                "items": ["Rag"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            	{
+                "m_item": "Ragged_Eyepatch",
+                "m_ResultSetFullQuantity": 1,
+                "m_ResultSetQuantity": -1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }		
+        ]
+    },
+	{
+        "m_Name": "Craft Antibiotics",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": 1,
+                "items": ["Bark_Birch"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["AmanitaMushroom"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "TetracyclineAntibiotics",
+                "m_ResultSetFullQuantity": -1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft Camonet",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 4,
+                "m_MaxQuantityIngredient": 4,
+                "items": ["Netting"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["PlantMaterial"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "Camonet",
+                "m_ResultSetFullQuantity": -1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft BurlapSack",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 6,
+                "m_MaxQuantityIngredient": 6,
+                "items": ["Rag"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["SewingKit"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": -25,
+                "m_IngredientDestroy": 0,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "BurlapSack",
+                "m_ResultSetFullQuantity": -1,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft TannedLeather",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["BearPelt", "CowPelt"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["GardenLime"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "TannedLeather",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 4,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft TannedLeather",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["WildboarPelt", "WolfPelt", "DeerPelt"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["GardenLime"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "TannedLeather",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 3,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft TannedLeather",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["SheepPelt", "PigPelt", "GoatPelt"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["GardenLime"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "TannedLeather",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 2,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    },
+	{
+        "m_Name": "Craft TannedLeather",
+        "m_IsInstaRecipe": 0,
+        "m_AnimationLength": 2,
+        "m_Specialty": 0,
+        "ingredients": [
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": 2,
+                "m_MaxQuantityIngredient": 2,
+                "items": ["RabbitPelt"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            },
+            {
+                "m_MinDamageIngredient": -1,
+                "m_MaxDamageIngredient": 3,
+                "m_MinQuantityIngredient": -1,
+                "m_MaxQuantityIngredient": -1,
+                "items": ["GardenLime"],
+                "m_IngredientAddHealth": 0,
+                "m_IngredientSetHealth": -1,
+                "m_IngredientAddQuantity": 0,
+                "m_IngredientDestroy": 1,
+                "m_IngredientUseSoftSkills": 0
+            }
+        ],
+        "results": [
+            {
+                "m_item": "TannedLeather",
+                "m_ResultSetFullQuantity": 0,
+                "m_ResultSetQuantity": 1,
+                "m_ResultSetHealth": -1,
+                "m_ResultInheritsHealth": -1,
+                "m_ResultInheritsColor": -1,
+                "m_ResultToInventory": -2,
+                "m_ResultUseSoftSkills": 0,
+                "m_ResultReplacesIngredient": -1
+            }
+        ]
+    }
+]
