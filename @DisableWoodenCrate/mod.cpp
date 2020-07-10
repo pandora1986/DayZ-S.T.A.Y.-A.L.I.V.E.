@@ -1,0 +1,10 @@
+name      = "@NoWoodenCrates";
+picture   = "NoWoodenCrates/Data/Airdrop_Logo.tga";
+logoSmall = "NoWoodenCrates/Data/Airdrop_Logo.tga";
+logo      = "NoWoodenCrates/Data/Airdrop_Logo_GS.tga";
+logoOver  = "NoWoodenCrates/Data/Airdrop_Logo.tga";
+tooltip   = "Disable Wooden Crates crafting";
+action    = "";
+author    = "Krypton91";
+overview  = "Disable crafting of WoodenCrates.";
+version   = "1";
